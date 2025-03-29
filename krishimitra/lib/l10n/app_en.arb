@@ -1,0 +1,9 @@
+{
+  "@@locale": "en",
+  "appTitle": "Krishimitra",
+  "login": "Login",
+  "welcome": "Welcome",
+  "@login": {
+    "description": "Login button text"
+  }
+}
